@@ -1,0 +1,14 @@
+C:\Users\WIN 10 PRO\Documents\Trabalho\bin\Debug\net8.0\Trabalho.exe
+C:\Users\WIN 10 PRO\Documents\Trabalho\bin\Debug\net8.0\Trabalho.deps.json
+C:\Users\WIN 10 PRO\Documents\Trabalho\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+C:\Users\WIN 10 PRO\Documents\Trabalho\bin\Debug\net8.0\Trabalho.dll
+C:\Users\WIN 10 PRO\Documents\Trabalho\bin\Debug\net8.0\Trabalho.pdb
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.dll
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\refint\Trabalho.dll
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.pdb
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+C:\Users\WIN 10 PRO\Documents\Trabalho\obj\Debug\net8.0\ref\Trabalho.dll
